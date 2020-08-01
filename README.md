@@ -5,7 +5,7 @@ Simple and Fast Yotube video downloading script which developed using python3, P
 ## Prerequisite
 Python version 3 installed
 Or
-just download the .exe format which can be seen the repo
+just download the tubedownloadersetup.exe file which can be seen the repo
 
 
 ## Built With
